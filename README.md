@@ -30,6 +30,21 @@ This project analyzes **cricket player statistics** to identify **all-rounders**
 
 ---
 
+## 📊 Visualizations
+- **Cluster plots with PCA (2D)**
+- **Silhouette score bar chart**
+- **Top 10 players per cluster**
+
+---
+
+## 🏏 Player Analysis
+Players are categorized as:
+- **Batsman**
+- **Bowler**
+- **All-Rounder**
+
+---
+
 ## 🤝 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/varsha-shekhar)
